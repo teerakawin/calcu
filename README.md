@@ -1,2 +1,1 @@
-# calcu
-a simple calculator software
+A really simple c calculator!
